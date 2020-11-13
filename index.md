@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## LIFI (JARINGAN INTERNET NIRKABEL BERBASIS CAHAYA)
+   Menurut saya lifi adalah kependekan dari Light Fidelity , Jaringan internet atau sistem transfer data sangat cepat nirkabel berbasis cahaya sedang dikembangkan para peneliti di Fraunhofer Heinrich Hertz, Jerman. LiFi atau Light Fidelity memiliki kegunaan seperti WiFi internet. Bedanya, jika WiFi menggunakan sinyal radio untuk mentransmisikan datanya, maka LiFi menggunakan cahaya dari bohlam lampu LED untuk mentransfer data. Dengan spektrum cahaya yang amat lebar, LiFi bisa meneruskan data dengan amat cepat.
+   ![image](lifi.png)
+   Li-Fi yang memiliki kecepatan data berkali-kali lipat dibandingkan dengan Wi-Fi ini disebabkan karena jenis LED yang merupakan semikonduktor punya sifat berbeda dari jenis lampu lain. Dengan sifat dan ciri-ciri seperti ini membuat LED mampu untuk beralih on dan off dalam beberapa nanodetik atau miliar detik. Nanodetik ini jika dikonversikan dalam kecepatan data setara dengan 1Gbits/s. Maka dari itu saat Wi-Fi hanya bisa mencapai 100 Mbits/s kecepatan data, maka ini artinya Li-Fi memiliki kecepatan 10 kali lebih cepat dari Wi-Fi  dengan kecepatan hingga 100 Gbps . secanggih cangihnya teknologi pasti akan memiliki kelebihan dan kekuranganya.
 
-You can use the [editor on GitHub](https://github.com/ridwansafarudin/LIFI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Kelebihan LIFI
+##### -lifi memiliki akses internet 10 kali lebih cepat dibandingkan wifi.
+##### -lebih mudah karna tidak pakai kabel.
+##### -tidak bisa di hack, karna memiliki gelombang cahaya yg cukup aman.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ridwansafarudin/LIFI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Kekurangan LIFI
+##### -hanya dapat digunakan diruangan yg memiliki akses cahaya langsung dari lampu led.
+##### -tidak bisa menembus dinding layaknya WIFI.
+##### -jika lampu led mati maka internet akan teerputus.
+##### -belum rilis di semua negara termasuk indonesia.
+##### -lumayan lebih mahal.
